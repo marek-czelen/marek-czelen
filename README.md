@@ -80,7 +80,7 @@ With **20+ years of engineering experience**, I architect and build systems acro
 ### AI & Applied Intelligence
 | Skill | Evidence |
 |---|---|
-| **Neural networks, medical imaging, pattern recognition** | [Springer publication](https://link.springer.com/chapter/10.1007/978-3-319-26250-1_30) |
+| **Neural networks, medical imaging, pattern recognition** | [Springer publication](https://link.springer.com/chapter/10.1007/978-3-7908-1902-1_102) |
 | **AI-assisted content generation** | [`mailing`](https://github.com/marek-czelen/mailing) — Hugging Face integration |
 | **LLM-assisted technical analysis & code generation** | Active daily workflow |
 
