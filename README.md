@@ -65,7 +65,7 @@ With **20+ years of engineering experience**, I architect and build systems acro
 |---|---|
 | **Node.js / Express**, **Vue 3**, **JavaScript** | [`mailing`](https://github.com/marek-czelen/mailing) — full-stack email campaign platform |
 | **C# / .NET** (WPF, Xamarin, .NET Core) | [`CertificateFactory`](https://github.com/marek-czelen/CertificateFactory), [`edccWallet`](https://github.com/marek-czelen/edccWallet) |
-| **Java / Android** (native) | [`FamilySonar`](https://github.com/marek-czelen/FamilySonar) — foreground services, SMS, GPS |
+| **Java / Android** (native) | [`FindMe`](https://github.com/marek-czelen/FindMe) — foreground services, SMS, GPS |
 | **SQL** (MySQL, MariaDB, PostgreSQL, MS SQL) | `mailing`, professional platforms |
 | **PHP** | Professional experience |
 
@@ -160,7 +160,7 @@ Senior, Staff, Principal, and Lead roles involving:
 - Embedded AI / edge intelligence
 - Distributed engineering infrastructure
 
-**Remote / Hybrid / Kraków or relocation** — open to discussion.
+**Remote / Hybrid / Kraków ** — open to discussion.
 
 ---
 
