@@ -1,6 +1,6 @@
 # 👋 Marek Czelen
 
-**Principal Embedded Systems Engineer & System Architect**  
+**Senior Software Engineer | Embedded Systems, Firmware & Systems Architecture**  
 📍 Kraków, Poland | 🌐 [GitHub](https://github.com/marek-czelen) | 💼 [LinkedIn](https://linkedin.com/in/marek-czelen)
 
 ---
