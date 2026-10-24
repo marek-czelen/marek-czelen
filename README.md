@@ -1,7 +1,7 @@
 # 👋 Marek Czelen
 
 **Principal Embedded Systems Engineer & System Architect**  
-📍 Kraków, Poland | 🌐 [GitHub](https://github.com/marek-czelen) | 💼 [LinkedIn](https://linkedin.com/in/marek-czelen)
+📍 Kraków, Poland | 🌐 [cretorix.eu](https://www.cretorix.eu) | [GitHub](https://github.com/marek-czelen) | 💼 [LinkedIn](https://linkedin.com/in/marek-czelen)
 
 ---
 
@@ -65,7 +65,7 @@ With **20+ years of engineering experience**, I architect and build systems acro
 |---|---|
 | **Node.js / Express**, **Vue 3**, **JavaScript** | [`mailing`](https://github.com/marek-czelen/mailing) — full-stack email campaign platform |
 | **C# / .NET** (WPF, Xamarin, .NET Core) | [`CertificateFactory`](https://github.com/marek-czelen/CertificateFactory), [`edccWallet`](https://github.com/marek-czelen/edccWallet) |
-| **Java / Android** (native) | [`FamilySonar`](https://github.com/marek-czelen/FamilySonar) — foreground services, SMS, GPS |
+| **Java / Android** (native) | [`FindMe`](https://github.com/marek-czelen/FindMe) — SMS-based SOS and location sharing; [`SecurePasswordManager`](https://github.com/marek-czelen/SecurePasswordManager) — encrypted local vault |
 | **SQL** (MySQL, MariaDB, PostgreSQL, MS SQL) | `mailing`, professional platforms |
 | **PHP** | Professional experience |
 
@@ -104,8 +104,11 @@ Multi-mode e-bike controller with six-step, 12-step, sinusoidal, and FOC modes. 
 **[mailing](https://github.com/marek-czelen/mailing)** — `Vue 3` · `Node.js` · `Express` · `MySQL`
 Full-stack email campaign platform with multi-tenant contact databases, SMTP delivery, IMAP reply/bounce monitoring, JWT/RBAC authentication, AI content generation (Hugging Face), heuristic spam analysis, and bilingual UI (PL/EN).
 
-**[FamilySonar](https://github.com/marek-czelen/FamilySonar)** — `Java` · `Android` · `SDK 36`
-Native Android location-sharing app using foreground services, SMS-triggered workflows, GPS/network location, geocoding, runtime permissions, and battery-aware background operation — all without a backend server.
+**[SecurePasswordManager](https://github.com/marek-czelen/SecurePasswordManager)** — `Java` · `Android` · `Argon2id` · `AES-256-GCM`
+Local-first Android vault for passwords, documents, images, and files. Uses a VLT3 encrypted format, Android Keystore-backed unlock, passphrase and Recovery QR protection, encrypted backups, TOTP, and local password-health checks. Engineering prototype; independent security assessment is still pending.
+
+**[FindMe](https://github.com/marek-czelen/FindMe)** — `Java` · `Android` · `SDK 36`
+Native Android safety app for sharing location with trusted contacts over SMS, including SOS messages, authorized location requests, foreground location services, and optional emergency photos via MMS. Works without Wi-Fi or mobile data when cellular SMS service is available; it has no custom backend or user accounts.
 
 **[edccWallet](https://github.com/marek-czelen/edccWallet)** — `C#` · `Xamarin.Forms` · `Android`
 Digital COVID Certificate wallet for Android with QR scanning, Base45/COSE/CBOR decoding, local certificate storage, and a reusable DCC processing library.
