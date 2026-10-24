@@ -1,7 +1,7 @@
 # 👋 Marek Czelen
 
 **Senior Software Engineer | Embedded Systems, Firmware & Systems Architecture**  
-📍 Kraków, Poland | 🌐 [GitHub](https://github.com/marek-czelen) | 💼 [LinkedIn](https://linkedin.com/in/marek-czelen)
+📍 Kraków, Poland | 🌐 [cretorix.eu](https://www.cretorix.eu) | [GitHub](https://github.com/marek-czelen) | 💼 [LinkedIn](https://linkedin.com/in/marek-czelen)
 
 ---
 
